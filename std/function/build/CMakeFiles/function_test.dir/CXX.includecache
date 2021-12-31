@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/finley/code/C++/std/function/function_test.cpp
+iostream
+-
+vector
+-
+list
+-
+map
+-
+set
+-
+string
+-
+algorithm
+-
+functional
+-
+memory
+-
+

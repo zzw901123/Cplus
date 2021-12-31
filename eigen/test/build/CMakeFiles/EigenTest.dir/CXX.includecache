@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/finley/code/C++/eigen/test/EigenTest.cpp
+iostream
+-
+Eigen/Dense
+-
+cmath
+-
+Eigen/Geometry
+-
+Eigen/Core
+-
+

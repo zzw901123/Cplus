@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/finley/code/C++/eigen/quaterniond/quaterniond_test.cpp
+iostream
+-
+Eigen/Core
+-
+Eigen/Geometry
+-
+

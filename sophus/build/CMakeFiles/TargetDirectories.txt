@@ -1,0 +1,3 @@
+/home/finley/CODE/github/my_practise/C++/sophus/build/CMakeFiles/rebuild_cache.dir
+/home/finley/CODE/github/my_practise/C++/sophus/build/CMakeFiles/edit_cache.dir
+/home/finley/CODE/github/my_practise/C++/sophus/build/CMakeFiles/SOPHUS_TEST.dir

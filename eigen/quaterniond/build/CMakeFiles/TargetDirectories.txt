@@ -1,0 +1,3 @@
+/home/finley/code/C++/eigen/quaterniond/build/CMakeFiles/rebuild_cache.dir
+/home/finley/code/C++/eigen/quaterniond/build/CMakeFiles/edit_cache.dir
+/home/finley/code/C++/eigen/quaterniond/build/CMakeFiles/quaterniond_test.dir

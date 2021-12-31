@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/finley/code/C++/std/unordered_map/unordered_map_test.cpp
+map
+-
+memory
+-
+set
+-
+unordered_map
+-
+unordered_set
+-
+iostream
+-
+

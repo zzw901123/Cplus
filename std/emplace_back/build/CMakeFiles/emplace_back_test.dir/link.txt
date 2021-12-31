@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3   CMakeFiles/emplace_back_test.dir/emplace_back_test.cpp.o  -o emplace_back_test 
